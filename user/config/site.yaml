@@ -1,0 +1,80 @@
+title: 'RAL RecSoc'
+default_lang: en
+author:
+  name: 'Tristan Youngs'
+  copyright: 'Copyright 2018 RAL RecSoc. All Rights Reserved.'
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'RAL Recreational Society'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+routes:
+  /something/else: /blog/sample-3
+  /another/one/here: /blog/sample-3
+  '/new/*': '/blog/*'
+blog:
+  route: /blog
+social:
+  -
+    url: 'https://www.facebook.com/groups/315928308552499/?hc_ref=ARQBwkD9BAQnUOd3wsZ-P7w5xZ1AobV1y4UGnhHpevqdmXChRabWPmnmJkaL2jgHLKk'
+    icon: facebook
+  -
+    url: blog.rss
+    icon: rss
+contact:
+  address:
+    -
+      line: 'STFC Rutherford Appleton Laboratory'
+    -
+      line: 'R58, Harwell Campus'
+    -
+      line: 'UK OX11 0QX'
+othermenu:
+  -
+    text: About
+    url: about
+  -
+    text: 'Privacy Policy'
+    url: '#'
+  -
+    text: Contact
+    url: contact
+quicklinks:
+  -
+    text: About
+    url: 'base_url:about'
+  -
+    text: 'Clubs & Activities'
+    url: 'base_url:clubs'
+  -
+    text: Join
+    url: 'base_url:Join'
+  -
+    text: Blog
+    url: 'base_url:blog'
+  -
+    text: 'Contact Us'
+    url: 'base_url:contact'
+header_options:
+  arrows: 'true'
+  autoslide: 'true'
+  autoslideHoverStop: 'true'
+  interval: '5000'
+  loop: 'true'
+  transition: zoom
+  itemsForSlide: '0'
+  touch: 'true'
+  swipe: 'true'
+footer:
+  description: 'Opinions and content expressed herein...'
+  contact_title: 'Contact Info'
+  links_title: 'Quick Links'
+  newsletter_title: Newsletter
+  newsletter_description: 'Etiam porta sem malesuada magna mollis euismod.'
+  copyright_text: 'Copyright 2018 RAL RecSoc. All Rights Reserved.'
+  feedburner: ''

@@ -1,0 +1,11 @@
+email: elliot.oram@stfc.ac.uk
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Elliot Oram'
+title: null
+state: enabled
+hashed_password: $2y$10$WvJ.BCsAQNJcZZ0xVZnlseyh1l8YMkz5xe4pLoSjcNQil9bz3kb7u
