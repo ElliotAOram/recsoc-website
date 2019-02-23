@@ -2,111 +2,111 @@
 title: Clubs & Activities List
 portfolio:
     - title: Angling / Fishing
-      desc: "Angling and Fishing club - offsite activity"
+      desc: ""
       image: angling.jpg
       url: clubs/angling
     - title: Arts & Crafts
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: artscrafts.jpg
       url: clubs/arts-crafts
     - title: Aunt Sally
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: auntsally.jpg
       url: clubs/aunt-sally
     - title: Body Conditioning
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: bodyconditioning.jpg
       url: clubs/body-conditioning
     - title: Boot Camp
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: bootcamp.jpg
       url: clubs/boot-camp
     - title: Circuit Training
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: circuittraining.jpg
       url: clubs/circuit-training
     - title: Darts
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: darts.jpg
       url: clubs/darts
     - title: Fencing
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: fencing.jpg
       url: clubs/fencing
     - title: Football
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: football.jpg
       url: clubs/football
     - title: Golf
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: golf.jpg
       url: clubs/golf
     - title: Hula Hoop
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: hulahoop.jpg
       url: clubs/hula-hoop
     - title: Jiu Jitsu
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: jiujitsu.jpg  
       url: clubs/jiu-jitsu
     - title: Kick Boxing
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: kickboxing.jpg
       url: clubs/kick-boxing
     - title: Model Railway
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: model-railway.jpg
       url: clubs/model-railway
     - title: Morris Dancing
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: morris-dancing.jpg
       url: clubs/morris-dancing
     - title: Music Club
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: music.jpg
       url: clubs/music
     - title: Photography
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: photgoraphy.jpg
       url: clubs/photography
     - title: Pilates
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: pilates.jpg
       url: clubs/pilates
     - title: Pool
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: pool.jpg
       url: clubs/pool
     - title: Rounders
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: rounders.jpg
       url: clubs/rounders
     - title: Sailing
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: sailing.jpg
       url: clubs/sailing
     - title: Table Tennis
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: tabletennis.jpg
       url: clubs/table-tennis
     - title: Table-top Games
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: tabletopgames.jpg
       url: clubs/table-top-games
     - title: Tennis
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: tennis.jpg
       url: clubs/tennis
     - title: Touch Rugby
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: touchrugby.jpg
       url: clubs/touch-rugby
     - title: Weight Training
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: weighttraining.jpg
       url: clubs/weight-training
     - title: Yoga
-      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      desc: ""
       image: yoga.jpg
       url: clubs/yoga
 

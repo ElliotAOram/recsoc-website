@@ -15,6 +15,9 @@ Thumbs.db
 *.swp
 
 
+# pycharm
+.idea/*
+
 webserver-configs/*
 tmp/*
 backup/*
