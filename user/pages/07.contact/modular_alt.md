@@ -16,7 +16,6 @@ form:
           type: text
           validate:
             required: true
-
         - name: email
           id: email
           classes: form-control form-control-lg
@@ -26,7 +25,6 @@ form:
           validate:
             rule: email
             required: true
-
         - name: message
           label: Message
           classes: form-control form-control-lg
@@ -35,12 +33,10 @@ form:
           type: textarea
           validate:
             required: true
-
     buttons:
         - type: submit
           value: Submit
           class: btn btn-primary btn-block
-
     process:
         - email:
             from: "{{ config.plugins.email.from }}"
@@ -61,4 +57,5 @@ content:
     order:
         by: default
         dir: asc
+
 ---

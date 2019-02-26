@@ -1,46 +1,28 @@
 ---
 title: Pricing
 pricing:
-    - name: Basic
-      price: $999<sup>99</sup>
+    - name: Full Membership
       options:
-        - line: Custom Design
-        - line: 3 or Less Pages
-        - line: Basic SEO
-        - line: Contact Form
-        - line: Updates Allowed
-      button_text: Full Details
-      button_url: "#"
-    - name: Standard
-      price: $1799<sup>99</sup>
+        - line: Rutherford Appleton Laboratory employees
+        - line: STFC contractors
+        - line: RAL visiting students
+      button_text: Sign up
+      button_url: "join/full-membership"
+    - name: Affiliate Membership
       options:
-        - line: Choice of Template
-        - line: 5 to 10 Pages
-        - line: Basic SEO
-        - line: Contact Form
-        - line: Training Included
-      button_text: Full Details
-      button_url: "#"
-    - name: Premium
-      price: $3499<sup>99</sup>
+        - line: Diamond Light Source employees
+        - line: Diamond Light Source contracts
+        - line: Other Campus Organisations
+      button_text: Sign up
+      button_url: "join/affiliate-membership"
+    - name: Associate Membership
       options:
-        - line: Custom Design
-        - line: Unlimited Pages
-        - line: Advanced SEO
-        - line: Contact Form
-        - line: Training Included
-      button_text: Full Details
-      button_url: "#"  
-    - name: Custom Design
-      price: $<sup>?</sup>
-      options:
-        - line: Custom Design
-        - line: Unlimited Pages
-        - line: Advanced SEO
-        - line: WordPress/CMS
-        - line: Custom Functionality
-      button_text: Full Details
-      button_url: "#"   
+        - line: Long term visitors
+        - line: Long term students
+        - line: Other organisations such as Qudos
+      button_text: Sign up
+      button_url: "join/associate-membership"
 ---
-## Pricing table example
-Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod.
+
+## Membership options
+Different membership options are required depending on your association to the Rutherford Appleton Laboratory (RAL). All the membership options require signing up to the CSSC. More information about CSSC sign up can be found [here](https://www.cssc.co.uk/membership/join/).
