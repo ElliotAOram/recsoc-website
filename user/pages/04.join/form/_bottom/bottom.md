@@ -45,4 +45,4 @@ title: Join
 </div>
 [/owl-carousel]
 
-[**DOWNLOAD THE FORM**](/assets/membershipform.pdf)
+[**DOWNLOAD THE FORM**](/files/membershipform.pdf)
