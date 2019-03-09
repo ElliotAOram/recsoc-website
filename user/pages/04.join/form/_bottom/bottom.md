@@ -3,12 +3,12 @@ title: Join
 ---
 
 [owl-carousel items=1 margin=10 loop=true]
-<div style="background-color:#e36d20;">
+<div style="background-color:#935b8f;">
   <br/>
   <br/>
   <br/>
   <br/>
-  <h2 style="color:white">Click below to download the form</h2>
+  <h2 style="color:white">Click the download link below</h2>
   <br/>
   <br/>
   <br/>
@@ -29,12 +29,13 @@ title: Join
   <br/>
   <br/>
 </div>
-<div style="background-color:#e36d20;">
+<div style="background-color:#935b8f;">
   <br/>
   <br/>
   <br/>
   <br/>
-  <h2 style="color:white">Send your form to <a href="mailto:recsoc@stfc.ac.uk?subject=Membership form">recsoc@stfc.ac.uk</a></h2>
+  <h2 style="color:white">Send your form to <a href="mailto:recsoc@stfc.ac.uk?subject=Membership form">recsoc@stfc.ac.uk</a>
+  </h2>
   <br/>
   <br/>
   <br/>

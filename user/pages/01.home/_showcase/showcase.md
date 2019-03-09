@@ -15,8 +15,8 @@ slides:
   - image: fireworks.jpg
     heading: "<strong>We do events</strong>"
     subheading: "<strong>The RecSoc hosts many events each year, from private parties to fireworks and music festivals</strong>"
-    button_text: DONEC
-    button_url: http://learn.getgrav.org  
+    button_text: About
+    button_url: /about
 
 ---
 

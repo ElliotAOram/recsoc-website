@@ -266,6 +266,8 @@ class User extends Data
      */
     public function authorise($action)
     {
+        user_error(__CLASS__ . '::' . __FUNCTION__ . '() is deprecated since Grav 1.5, use authorize() method instead', E_USER_DEPRECATED);
+
         return $this->authorize($action);
     }
 
@@ -283,5 +285,34 @@ class User extends Data
         }
 
         return 'https://www.gravatar.com/avatar/' . md5($this->email);
+    }
+
+    /**
+     * Serialize user.
+     */
+    public function __sleep()
+    {
+        return [
+            'items',
+            'storage'
+        ];
+    }
+
+    /**
+     * Unserialize user.
+     */
+    public function __wakeup()
+    {
+        $this->gettersVariable = 'items';
+        $this->nestedSeparator = '.';
+
+        if (null === $this->items) {
+            $this->items = [];
+        }
+
+        if (null === $this->blueprints) {
+            $blueprints = new Blueprints;
+            $this->blueprints = $blueprints->get('user/account');
+        }
     }
 }
