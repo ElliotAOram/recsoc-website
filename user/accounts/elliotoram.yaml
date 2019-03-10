@@ -1,0 +1,8 @@
+email: elliotoram@hotmail.co.uk
+fullname: 'Elliot Oram'
+level: Newbie
+state: enabled
+access:
+  site:
+    login: 'true'
+hashed_password: $2y$10$VX2qRDPxX2pRGDZv.4fYruh.Ajfi8PY6wCNo0jQ.pIUXZzZHzNquO

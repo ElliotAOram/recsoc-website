@@ -7,21 +7,21 @@ pricing:
         - line: STFC contractors
         - line: RAL visiting students
       button_text: Sign up
-      button_url: "join/full-membership"
+      button_url: "join/form"
     - name: Affiliate Membership
       options:
         - line: Diamond Light Source employees
         - line: Diamond Light Source contracts
         - line: Other Campus Organisations
       button_text: Sign up
-      button_url: "join/affiliate-membership"
+      button_url: "join/form"
     - name: Associate Membership
       options:
         - line: Long term visitors
         - line: Long term students
         - line: Other organisations such as Qudos
       button_text: Sign up
-      button_url: "join/associate-membership"
+      button_url: "join/form"
 ---
 
 ## Membership options

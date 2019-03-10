@@ -9,7 +9,7 @@ form:
           type: tab
           title: Features
           fields:
-            class:
+            header.class:
               type: select
               label: Layout
               default: small
@@ -33,3 +33,6 @@ form:
                 .text:
                   type: text
                   label: Text
+                .url:
+                  type: text
+                  label: Link
