@@ -85,8 +85,8 @@
     {% set blog_image = page.media.images|first %}
     {% if blog_image %}
     <div class="flush-top blog-header blog-header-image" style="background: {{ page.header.bg_color }} url({{ blog_image.url }}) no-repeat right;">
-    {% if page.header.logo %}<div class="club-logo"> <img class="logo" src="{{ page.media[page.header.logo].url }}"/> {% endif %}</div>
-    <h1 style="display: inline-block">{{ page.title }}</h1>
+    {% if page.header.logo %}<div class="club-logo" style="display:inline-block"> <img class="logo" src="{{ page.media[page.header.logo].url }}"/> {% endif %}</div>
+    <h1 style="display:inline-block">{{ page.title }}</h1>
     </div>
     {% endif %}
     <div class="flush-top blog-header">
