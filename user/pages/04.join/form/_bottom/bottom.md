@@ -2,7 +2,7 @@
 title: Join
 ---
 
-[owl-carousel items=1 margin=10 loop=true]
+[owl-carousel items=1 margin=10 loop=true nav=true]
 <div style="background-color:#935b8f;">
   <br/>
   <br/>
@@ -21,7 +21,7 @@ title: Join
   <br/>
   <br/>
   <br/>
-  <h2 style="color:white">Fill in the details for full members</h2>
+  <h2 style="color:white">Fill in the membership form</h2>
   <br/>
   <br/>
   <br/>
@@ -32,13 +32,10 @@ title: Join
 <div style="background-color:#935b8f;">
   <br/>
   <br/>
-  <br/>
-  <br/>
   <h2 style="color:white">Send your form to <a href="mailto:recsoc@stfc.ac.uk?subject=Membership form">recsoc@stfc.ac.uk</a>
   </h2>
-  <br/>
-  <br/>
-  <br/>
+  <h2 style="color:white">Or </h2>
+  <h2 style="color:white">Bring your form to the R58 RecSoc bar</h2>
   <br/>
   <br/>
   <br/>
