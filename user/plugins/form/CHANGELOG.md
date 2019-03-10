@@ -1,3 +1,48 @@
+# v2.16.4
+## 12/14/2018
+
+1. [](#improved)
+    * Better handling of invalid file names during upload
+    * Better MIME type checking of files during file upload
+    * Do not rely on jQuery for merging languages from form fields [#290](https://github.com/getgrav/grav-plugin-form/issues/290) [#291](https://github.com/getgrav/grav-plugin-form/issues/291)
+2. [](#bugfix)
+    * Remove jQuery dependency in form.html.twig (#290)
+3. [](#new)
+    * Added Object.assign-polyfill (#291)
+
+# v2.16.3
+## 09/21/2018
+
+1. [](#improved)
+    * Use `Url:post()` to get the `$_POST` variable (allows common security checks/filtering for the POST data)
+    * Various JS tweaks and enhancements
+1. [](#bugfix)
+    * Fixed issue where `select` set up as `multiple` and with `selectize: create: true` would not properly merge newly created values on rendering.
+ 
+# v2.16.2
+## 08/23/2018
+
+1. [](#improved)
+    * Switched to new Grav `Yaml` class to support Native + Fallback YAML libraries
+    * Simple styling fixes for `array` field
+1. [](#bugfix)
+    * Fixed issue with translations of placeholder text in `array` field
+
+# v2.16.1
+## 08/20/2018
+
+1. [](#new)
+    * Fixed a regression issue with `file` & `array` field
+
+# v2.16.0
+## 08/20/2018
+
+1. [](#new)
+    * Added new `form.keep_alive` option to keep session alive [#275](https://github.com/getgrav/grav-plugin-form/issues/275)
+    * Added `array` field for frontend use
+1. [](#improved)
+    * Improving compatibility `autocomplete` spec [#274](https://github.com/getgrav/grav-plugin-form/pull/274)
+
 # v2.15.1
 ## 06/20/2018
 
