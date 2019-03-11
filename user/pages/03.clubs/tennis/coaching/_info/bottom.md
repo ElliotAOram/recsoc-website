@@ -1,5 +1,7 @@
 ---
 title: Coaching
+parent:
+    url: "."
 ---
 
 # Group Sessions 

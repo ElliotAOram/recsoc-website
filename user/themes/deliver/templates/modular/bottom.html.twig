@@ -1,4 +1,7 @@
 <div class="modular-row bottom {{ page.header.class }}">
+    {% if page.header.parent %}
+    <a class="button primary" href="{{ page.header.parent.url }}">Back</a>
+    {% endif %}
     {{ content }}
     {% for button in page.header.buttons %}
     <a class="button{% if button.primary %} primary{% endif %}" href="{{ button.url }}">{{ button.text }}</a>
@@ -16,5 +19,8 @@
         </div>    
         {% endfor %}
     </div>  
+    {% endif %}
+    {% if page.header.parent %}
+    <a class="button primary" href="{{ page.header.parent.url }}">Back</a>
     {% endif %}
 </div>

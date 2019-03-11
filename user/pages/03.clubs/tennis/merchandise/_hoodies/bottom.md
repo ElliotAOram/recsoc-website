@@ -1,5 +1,7 @@
 ---
 title: Hoodies
+parent:
+    url: "."
 ---
 [owl-carousel items=1 margin=10 loop=true autoplay=true autoplayHoverPause=true nav=true]
 ![](hoodies-dark-heather.png)

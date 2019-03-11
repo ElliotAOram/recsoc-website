@@ -1,5 +1,7 @@
 ---
 title: About
+parent:
+    url: "."
 ---
 
 ## Facilities

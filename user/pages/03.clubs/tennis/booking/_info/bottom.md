@@ -1,5 +1,7 @@
 ---
 title: Booking
+parent:
+    url: "."
 ---
 
 

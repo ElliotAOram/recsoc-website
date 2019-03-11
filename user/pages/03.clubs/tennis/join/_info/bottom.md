@@ -1,5 +1,7 @@
 ---
-title: Hello there
+title: Join
+parent:
+    url: "."
 ---
 
-Some news
+# Under Construction
