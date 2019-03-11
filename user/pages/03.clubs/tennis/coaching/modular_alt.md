@@ -1,5 +1,5 @@
 ---
-title: News
+title: Coaching
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
 bg_color: "#B4B093"
