@@ -1,5 +1,5 @@
 ---
-title: Hello there
+title: Competitions
 ---
 
-Some news
+
