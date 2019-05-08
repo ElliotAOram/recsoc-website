@@ -863,6 +863,21 @@ td {
   .blog-header + .blog-content {
     padding-top: 3rem; }
 
+.page-title {
+    display: inline-block;
+}
+.page-title.h1{
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.club-logo {
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+
 .list-item {
   border-bottom: 1px solid #dadada;
   margin-bottom: 3rem; }
@@ -1745,5 +1760,7 @@ ul.pagination {
   margin: 0.4375rem 0 0 -0.625rem;
   z-index: -1;
   border-radius: 100%; }
+
+
 
 /*# sourceMappingURL=template.css.map */

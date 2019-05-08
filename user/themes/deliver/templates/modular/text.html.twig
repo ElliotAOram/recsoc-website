@@ -32,6 +32,20 @@
     </div>
 {% endif %}
 
+{% if page.header.blockmenu %}
+    <div class="notebooks">
+        {% for item in page.header.blockmenu %}
+            <div class="notebook">
+                <a href="{{ item.url }}" class="portfolio-link">
+                    <div class='screen'><div class="screen-content" style="background-image: url({{ page.media[item.image].url }})" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                </a>
+                <div class='keyboard'></div>
+                <h4>{{ item.title }}</h4>
+            </div>
+        {% endfor %}
+    </div>
+{% endif %}
+
 
 <div class="callout-line"></div>
 </div>
@@ -46,23 +60,6 @@
                     <img src="{{ page.media[portfolio.image].url }}" class="img-responsive img-centered" alt="{{ portfolio.alt }}">
                 </a>
                 <p>{{ portfolio.desc }}</p>
-                <ul class="client-details">
-                    <li>Client:
-                        <strong>
-                            <a href="{{ portfolio.url }}">{{ portfolio.client }}</a>
-                        </strong>
-                    </li>
-                    <li>Date:
-                        <strong>
-                            {{ portfolio.date }}
-                        </strong>
-                    </li>
-                    <li>Service:
-                        <strong>
-                            {{ portfolio.category }}
-                        </strong>
-                    </li>
-                </ul>
                 <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
             </div>
         </div>
