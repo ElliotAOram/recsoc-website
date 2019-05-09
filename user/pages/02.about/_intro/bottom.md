@@ -2,7 +2,7 @@
 title: About the RAL RecSoc
 buttons:
     - text: Join Now
-      url: /join
+      url: join
       primary: true
 ---
 
@@ -28,7 +28,7 @@ The Rec-Soc facilities are available free of charge for all members to host work
 
 ## CSSC Membership
 
-Civil Service Sports Council (CSSC) membership of one kind or another is open to all members of staff, whether permanent, on contracts or short term stays, e.g. students. Membership for 2018 costs just £3.95 per month which is paid by direct debit.
+Civil Service Sports Council (CSSC) membership of one kind or another is open to all members of staff, whether permanent, on contracts or short term stays, e.g. students. Membership for 2018 costs just £4.25 per month which is paid by direct debit.
 
 As a member of CSSC you are entitled to full use of all our local clubs and facilities, most of which are located in R58 (The building next to the large dish). The Rec-Soc has a lounge and bar open every lunch time and on occasional evenings with refreshments at discounted prices. We host lunchtime quizzes and competitions, such as crib, chess, backgammon, darts, Aunt Sally and pool, and other functions at regular intervals.
 

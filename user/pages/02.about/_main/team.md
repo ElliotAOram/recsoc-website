@@ -7,8 +7,8 @@ members:
     - name: Paul Sedwards
       image: sedwards.jpg
       title: Chairman
-    - name: Mike Courthold
-      image: courthold.jpg
+    - name: Tristan Youngs
+      image: youngs.jpg
       title: Vice Chairman
     - name: Ronnie Brumfitt
       image: brumfitt.jpg
@@ -17,28 +17,19 @@ members:
       image: moxon.jpg
       title: Hon. Treasurer
     - name: Peter Phillips
-      image: moxon.jpg
+      image: phillips.jpg
       title: Lounge Manager
-    - name: Caroline Gore
-      image: gore.jpg
+    - name: Mike Courthold
+      image: courthold.jpg
       title: Committee Member
     - name: David Hunt
       image: hunt.jpg
       title: Committee Member
-    - name: Michelle McQueen
-      image: mcqueen.jpg
-      title: Committee Member
     - name: Simon Moorby
       image: moorby.jpg
       title: Committee Member
-    - name: Sarha Needham
+    - name: Sarah Needham
       image: needham.jpg
-      title: Committee Member
-    - name: Josh Preston
-      image: preston.jpg
-      title: Committee Member
-    - name: Diane Rabbetts
-      image: rabbetts.jpg
       title: Committee Member
     - name: Martin Rudman
       image: rudman.jpg
@@ -46,9 +37,17 @@ members:
     - name: Brian Wyborn
       image: wyborn.jpg
       title: Committee Member
-    - name: Tristan Youngs
-      image: youngs.jpg
+    - name: Katie Dore
       title: Committee Member
+    - name: Elliot Oram
+      title: Committee Member
+    - name: Helen Playford
+      title: Committee Member
+    - name: Miriam Simons
+      title: Committee Member
+    - name: Helen Towrie
+      title: Committee Member
+
 ---
 ## The RecSoc Committee
 
