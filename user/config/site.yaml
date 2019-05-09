@@ -23,9 +23,7 @@ social:
   -
     url: 'https://www.facebook.com/groups/315928308552499/?hc_ref=ARQBwkD9BAQnUOd3wsZ-P7w5xZ1AobV1y4UGnhHpevqdmXChRabWPmnmJkaL2jgHLKk'
     icon: facebook
-  -
-    url: blog.rss
-    icon: rss
+
 contact:
   address:
     -
@@ -71,10 +69,10 @@ header_options:
   touch: 'true'
   swipe: 'true'
 footer:
-  description: 'Opinions and content expressed herein...'
+  description: ''
   contact_title: 'Contact Info'
   links_title: 'Quick Links'
-  newsletter_title: Newsletter
-  newsletter_description: 'Etiam porta sem malesuada magna mollis euismod.'
+  newsletter_title: 
+  newsletter_description: ''
   copyright_text: 'Copyright 2018 RAL RecSoc. All Rights Reserved.'
   feedburner: ''

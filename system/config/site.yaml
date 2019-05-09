@@ -2,13 +2,13 @@ title: Grav                                 # Name of the site
 default_lang: en                            # Default language for site (potentially used by theme)
 
 author:
-  name: John Appleseed                      # Default author name
-  email: 'john@example.com'                 # Default author email
+  name: RecSoc                              # Default author name
+  email: 'recsoc@stfc.ac.uk'                 # Default author email
 
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
 metadata:
-  description: 'My Grav Site'               # Site description
+  description: 'RAL RecSoc website'         # Site description
 
 summary:
   enabled: true                             # enable or disable summary of page

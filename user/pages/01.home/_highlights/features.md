@@ -16,8 +16,6 @@ features:
 	- header: The R58 Lounge
 	  text: "The Lounge, located on-site, offers cosy seating and a fully stocked bar"
 	  icon: star-o
-	  linkurl: "http://www.getgrav.org" 
-	  linktext: "Find Out More"
 ---
 
 ## Rutherford Appleton Laboratory Recreational Society
