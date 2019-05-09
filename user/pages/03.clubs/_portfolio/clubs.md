@@ -19,9 +19,6 @@ portfolio:
     - title: Circuit Training
       image: circuittraining.jpg
       url: clubs/circuit-training
-    - title: Darts
-      image: darts.jpg
-      url: clubs/darts
     - title: Fencing
       image: fencing.jpg
       url: clubs/fencing
@@ -31,15 +28,6 @@ portfolio:
     - title: Golf
       image: golf.jpg
       url: clubs/golf
-    - title: Hula Hoop
-      image: hulahoop.jpg
-      url: clubs/hula-hoop
-    - title: Jiu Jitsu
-      image: jiujitsu.jpg  
-      url: clubs/jiu-jitsu
-    - title: Kick Boxing
-      image: kickboxing.jpg
-      url: clubs/kick-boxing
     - title: Model Railway
       image: model-railway.jpg
       url: clubs/model-railway
@@ -55,27 +43,15 @@ portfolio:
     - title: Pilates
       image: pilates.jpg
       url: clubs/pilates
-    - title: Pool
-      image: pool.jpg
-      url: clubs/pool
     - title: Rounders
       image: rounders.jpg
       url: clubs/rounders
-    - title: Sailing
-      image: sailing.jpg
-      url: clubs/sailing
     - title: Table Tennis
       image: tabletennis.jpg
       url: clubs/table-tennis
-    - title: Table-top Games
-      image: tabletopgames.jpg
-      url: clubs/table-top-games
     - title: Tennis
       image: tennis.jpg
       url: clubs/tennis
-    - title: Touch Rugby
-      image: touchrugby.jpg
-      url: clubs/touch-rugby
     - title: Weight Training
       image: weighttraining.jpg
       url: clubs/weight-training
