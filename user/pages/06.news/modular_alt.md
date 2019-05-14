@@ -1,7 +1,7 @@
 ---
 title: News
 onpage_menu: false
-body_classes: "modular header-lite fullwidth"
+body_classes: "modular header-lite fullwidth news"
 bg_color: "#B4B093"
 
 content:
