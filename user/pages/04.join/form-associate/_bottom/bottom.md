@@ -42,4 +42,4 @@ title: Join
 </div>
 [/owl-carousel]
 
-[**DOWNLOAD THE FORM**](/files/membershipform.pdf)
+[**DOWNLOAD THE FORM**](/files/Sign_up/Associate_Member.pdf)
