@@ -23,9 +23,3 @@ Year | Chair | Vice-Chair | Secretary | Treasurer
 2013-2018 | Mr Paul Sedwards | Mr Mike Courthold, Mr Ronnie Brumfitt | Mr Stewart Greenall, Mr Ronnie Brumfitt | Mr Joe Moxon
 
 ---
-
-## Membership
-
-The Society now has approximately 1000 Full and Affiliate Members, made up of STFC, Diamond and ESA staff. At present it is not possible to give an exact number due to starters and leavers, which happen every month at each establishment. Additionally there are 11 Honorary Members and 39 Retired Members.  There are also approximately 80 Associate Members but, as with the Full Members, it is not possible to give an exact number as Associate Members can join for between one month and 12 months. Subsequently Associate Membership numbers vary from month to month depending on the time of year and how popular and well supported the clubs and activities are.
-
-The Committee members responsible for processing new applications and maintaining membership records do a sterling job, taking into consideration that CSSC membership can now be done online so we don’t always know when people join, we are not informed when staff leave STFC or cancel their CSSC membership, and Associate Members must reapply each year . We are hoping to make the process simpler in future by setting up our own on-line application and payment system.

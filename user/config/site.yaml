@@ -2,7 +2,7 @@ title: 'RAL RecSoc'
 default_lang: en
 author:
   name: 'Tristan Youngs'
-  copyright: 'Copyright 2018 RAL RecSoc. All Rights Reserved.'
+  copyright: 'Copyright 2019 RAL RecSoc. All Rights Reserved.'
 taxonomies:
   - category
   - tag
@@ -13,12 +13,6 @@ summary:
   format: short
   size: 300
   delimiter: '==='
-routes:
-  /something/else: /blog/sample-3
-  /another/one/here: /blog/sample-3
-  '/new/*': '/blog/*'
-blog:
-  route: /blog
 social:
   -
     url: 'https://www.facebook.com/groups/315928308552499/?hc_ref=ARQBwkD9BAQnUOd3wsZ-P7w5xZ1AobV1y4UGnhHpevqdmXChRabWPmnmJkaL2jgHLKk'
@@ -51,10 +45,10 @@ quicklinks:
     url: 'base_url:clubs'
   -
     text: Join
-    url: 'base_url:Join'
+    url: 'base_url:join'
   -
-    text: Blog
-    url: 'base_url:blog'
+    text: News
+    url: 'base_url:news'
   -
     text: 'Contact Us'
     url: 'base_url:contact'
@@ -74,5 +68,5 @@ footer:
   links_title: 'Quick Links'
   newsletter_title:
   newsletter_description: ''
-  copyright_text: 'Copyright 2018 RAL RecSoc. All Rights Reserved.'
+  copyright_text: 'Copyright 2019 RAL RecSoc. All Rights Reserved.'
   feedburner: ''

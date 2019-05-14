@@ -142,7 +142,7 @@ form:
       label: Blog Page
       help: The route to the blog page when working with blog sidebar
       size: medium
-      default: '/blog'
+      default: '/news'
 
     spectre_section:
       type: section
