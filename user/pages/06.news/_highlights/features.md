@@ -1,5 +1,5 @@
 ---
-title: Service Highlights
+title: News
 menu: Highlights
 class: big
 features:
