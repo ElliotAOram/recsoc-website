@@ -10,9 +10,6 @@ portfolio:
     - title: Aunt Sally
       image: auntsally.jpg
       url: clubs/aunt-sally
-    - title: Body Conditioning
-      image: bodyconditioning.jpg
-      url: clubs/body-conditioning
     - title: Boot Camp
       image: bootcamp.jpg
       url: clubs/boot-camp
