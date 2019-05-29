@@ -1,7 +1,7 @@
 ---
 title: Photography Club 
-contactname: Unknown
-contactemail: Unknown
+contactname: David Hooper
+contactemail: david.hooper@stfc.ac.uk
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
 bg_color: "#B4B093"
