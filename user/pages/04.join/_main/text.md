@@ -3,7 +3,7 @@ title: Pricing
 pricing:
     - name: Full Membership
       options:
-        - line: Rutherford Appleton Laboratory employees
+        - line: Rutherford Appleton Laboratory
         - line: STFC contractors
         - line: RAL visiting students
       button_text: Sign up
