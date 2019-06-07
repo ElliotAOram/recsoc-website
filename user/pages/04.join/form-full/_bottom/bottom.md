@@ -32,8 +32,7 @@ title: Join
 <div style="background-color:#935b8f;">
   <br/>
   <br/>
-  <h2 style="color:white">Send your form to <a href="mailto:recsoc@stfc.ac.uk?subject=Membership form">recsoc@stfc.ac.uk</a>
-  </h2>
+  <h2 style="color:white">Return a physical copy of your form to Martin Rudman R25 2.77</h2>
   <h2 style="color:white">Or </h2>
   <h2 style="color:white">Bring your form to the R58 RecSoc bar</h2>
   <br/>
