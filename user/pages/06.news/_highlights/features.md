@@ -12,8 +12,8 @@ features:
 	  text: "The agreed minutes from the 2019 RecSoc AGM"
 	  icon: group
 	  linktext: "Coming soon..."
-	- header: The RecSoc Rules
-	  text: "The most recent version of the rules the RecSoc Rules."
+	- header: Rules
+	  text: "The most recent version of the RecSoc Rules."
 	  icon: ellipsis-h
 	  linkurl: "files/RAL_RecSoc_Rules_2018.pdf"
 	  linktext: "Read it here"
