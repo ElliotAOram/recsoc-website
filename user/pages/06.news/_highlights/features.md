@@ -15,7 +15,7 @@ features:
 	- header: Rules
 	  text: "The most up to date version of the RecSoc Rules"
 	  icon: ellipsis-h
-	  linkurl: "files/RAL_RecSoc_Rules_2018.pdf"
+	  linkurl: "files/RAL_RecSoc_Rules_2019.pdf"
 	  linktext: "Read it here"
 ---
 
