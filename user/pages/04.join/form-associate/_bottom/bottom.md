@@ -32,7 +32,7 @@ title: Join
 <div style="background-color:#935b8f;">
   <br/>
   <br/>
-  <h2 style="color:white">Return your form to Martin Rudman R25 2.77</h2>
+  <h2 style="color:white">Return your form to Martin Rudman, R25, 2.77</h2>
   <h2 style="color:white">Or </h2>
   <h2 style="color:white">Bring your form to the R58 RecSoc bar</h2>
   <br/>
