@@ -13,7 +13,7 @@ features:
 	  icon: group
 	  linktext: "Coming soon..."
 	- header: Rules
-	  text: "The most recent version of the RecSoc Rules."
+	  text: "The most up to date version of the RecSoc Rules"
 	  icon: ellipsis-h
 	  linkurl: "files/RAL_RecSoc_Rules_2018.pdf"
 	  linktext: "Read it here"
