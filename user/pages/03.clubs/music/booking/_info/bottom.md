@@ -5,7 +5,7 @@ parent:
 # Booking the Music Room
 
 ## Booking Policy
-Bookings are currently made by inviting the [Music Room Outlook calendar](mailto:r58mscrm@stfc.ac.uk) to an appointment, which our secretary will then receive and accept / reject accordingly. Repeat / recurring bookings are permitted, but please restrict these to 4 - 6 weeks so as to allow bookings at peak times (e.g. lunchtimes) to be spread between all the members.
+Bookings are currently made by inviting the [Music Room Outlook calendar](mailto:r58mscrm@stfc.ac.uk) to an appointment, which our secretary will then receive and accept / reject accordingly. Repeat / recurring bookings are permitted, but please restrict these to 4 - 6 weeks so as to allow bookings at peak times (e.g. lunchtimes) to be spread between all the members. Please add a contact number for yourself (a local work extension number is preferred) to the booking so that the club can get in contact with you should the need arise.
 
 ## Usage Rules
 The Music Room exists to satisfy the needs of many different types of user, so please bear this in mind when using it. In particular:

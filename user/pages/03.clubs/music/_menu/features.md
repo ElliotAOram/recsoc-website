@@ -22,7 +22,7 @@ features:
     linkurl: "/clubs/music/join"
     linktext: "Join the Club"
   - header: Reports
-    text: "Annual club reports submitted to the RecSoc"
+    text: "Periodic reports on the club's activities"
     icon: file-text
     linkurl: "/clubs/music/reports"
     linktext: "See What We've Been Doing"
