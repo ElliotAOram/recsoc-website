@@ -6,17 +6,32 @@
     <div class="feature-items">
     {% for feature in page.header.features %}
            <div class="feature">
+
+	    {% if feature.linkurl and feature.linktext %}
+            <a href="{{ feature.linkurl }}"><div>
+            {% endif %}
+
             {% if feature.icon %}
             <i class="fa fa-fw fa-{{ feature.icon }}"></i>
             <div class="feature-content icon-offset">
             {% else %}
             <div class="feature-content">
             {% endif %}
+
             {% if feature.header %}
             <h4>{{ feature.header }}</h4>
             {% endif %}
+
+	    {% if feature.linkurl and feature.linktext %}
+            </a></div>
+            {% endif %}
+
             {% if feature.text %}
             <p>{{ feature.text }}</p>
+            {% endif %}
+
+	    {% if feature.linkurl and feature.linktext %}
+            </br>
             <p><a href="{{ feature.linkurl }}">{{ feature.linktext }}</a></p>
             {% endif %}
             </div>

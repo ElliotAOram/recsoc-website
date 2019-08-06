@@ -56,7 +56,6 @@
                         <a href="{{ page.url }}" class="external">
                             {% if page.header.icon %}<i class="fa fa-{{ page.header.icon }}"></i>{% endif %}
                             {{ page.menu }}
-							
                         </a>
                     </li>
                 {% endif %}
@@ -94,7 +93,9 @@
        {% if page.header.location %}<b>Location : </b></nbsp>{{ page.header.location }} <br/> {% endif %}
        {% if page.header.fee %}<b>Sign up fee : </b><nbsp>{{ page.header.fee }} </br> {% endif %}
     </div>
+    <div class="modular-row">
     {{ page.content }}
+    </div>
     {% for module in page.collection() %}
         <div id="{{ _self.pageLinkName(module.menu) }}"></div>
         {{ module.content }}
