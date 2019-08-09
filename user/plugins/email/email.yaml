@@ -1,7 +1,7 @@
 enabled: true
-from:
+from: elliotoram@hotmail.co.uk
 from_name:
-to:
+to: elliotoram@hotmail.co.uk
 to_name:
 mailer:
   engine: sendmail
