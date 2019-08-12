@@ -1,31 +1,49 @@
 ---
-title: Contact Form
+title: Associate Membership form
 
 form:
     name: contact
 
     fields:
-        name:
-          label: Name
-          placeholder: Enter your name
+        first name:
+          label: First name
+          placeholder: First name
           autocomplete: on
           type: text
           validate:
             required: true
-
-        email:
+            
+        Surname:
+          label: Surname
+          placeholder: Surname
+          autocomplete: on
+          type: text
+          validate:
+            required: true
+            
+        Email:
           label: Email
           placeholder: Enter your email address
           type: email
           validate:
             required: true
-
-        message:
-          label: Message
-          placeholder: Enter your message
-          type: textarea
+        
+        Contact number:
+          label: phone number
+          placeholder: 01234567890
+          type: text
           validate:
             required: true
+      
+        New member:
+          label: New member
+          type: checkbox
+          validate:
+            required: true
+            
+        Current Employer:
+          label: employer
+          type: text
 
     buttons:
         submit:
@@ -45,6 +63,17 @@ form:
         display: thankyou
 ---
 
-# Contact form
+# Membership information
+The membership year runs from 1st September until 31st August annually.
 
-Some sample page content
+The annual rate for 2019-2020 is £28.00 and is renewable on or before the 31st of August each year.
+
+If you are applying for membership part way through the membership year, you are only required to pay for those months until the new year membership begins in september. 
+
+Monthly rates are £2.50 per full month. The below table displays the membership prices for each month of the year.
+
+|   Oct  |   Nov  |   Dec  |   Jan  |   Feb  |   Mar  |  Apr   |  May   |  Jun  |  Jul  |  Aug  |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- |
+| £27.50 | £25.00 | £22.50 | £20.00 | £17.50 | £15.00 | £12.50 | £10.00 | £7.50 | £5.00 | £2.50 |
+
+
