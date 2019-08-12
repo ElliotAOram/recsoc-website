@@ -65,8 +65,5 @@ If you are applying for membership part way through the membership year, you are
 
 Monthly rates are £2.50 per full month. The below table displays the membership prices for each month of the year.
 
-|   Oct  |   Nov  |   Dec  |   Jan  |   Feb  |   Mar  |  Apr   |  May   |  Jun  |  Jul  |  Aug  |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- |
-| £27.50 | £25.00 | £22.50 | £20.00 | £17.50 | £15.00 | £12.50 | £10.00 | £7.50 | £5.00 | £2.50 |
 
 
