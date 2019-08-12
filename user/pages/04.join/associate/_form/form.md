@@ -30,14 +30,7 @@ form:
         
         Contact number:
           label: phone number
-          placeholder: 01234567890
           type: text
-          validate:
-            required: true
-      
-        New member:
-          label: New member
-          type: checkbox
           validate:
             required: true
             
