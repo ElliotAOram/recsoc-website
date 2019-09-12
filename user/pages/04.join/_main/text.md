@@ -22,6 +22,12 @@ pricing:
         - line: Other organisations such as Qudos
       button_text: Sign up
       button_url: "join/form-associate"
+    - name: Retired Membership
+      options:
+        - line: Previously a Full/Affiliate member
+        - line: Now retired
+      button_text: Sign up
+      button_url: "join/retired"
 ---
 
 ## Membership options

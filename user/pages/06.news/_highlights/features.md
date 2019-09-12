@@ -11,7 +11,7 @@ features:
 	- header: News Letter
 	  text: "Want to know what's happening this month at the RecSoc?"
 	  icon: envelope-o
-	  linkurl: "files/News Letters/June 2019.pdf" 
+	  linkurl: "files/News Letters/August 2019.pdf"
 	  linktext: "Read it here"
 	- header: 2019 AGM
 	  text: "The agreed minutes from the 2019 RecSoc AGM"
