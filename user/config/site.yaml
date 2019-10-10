@@ -32,7 +32,7 @@ othermenu:
     url: about
   -
     text: 'Privacy Policy'
-    url: '#'
+    url: 'files/Privacy Policy.pdf'
   -
     text: Contact
     url: contact

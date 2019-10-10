@@ -3,7 +3,7 @@ title: Pricing
 pricing:
     - name: Full Membership
       options:
-        - line: Rutherford Appleton Laboratory employees
+        - line: Rutherford Appleton Laboratory
         - line: STFC contractors
         - line: RAL visiting students
       button_text: Sign up
@@ -22,6 +22,12 @@ pricing:
         - line: Other organisations such as Qudos
       button_text: Sign up
       button_url: "join/form-associate"
+    - name: Retired Membership
+      options:
+        - line: Previously a Full/Affiliate member
+        - line: Now retired
+      button_text: Sign up
+      button_url: "join/retired"
 ---
 
 ## Membership options

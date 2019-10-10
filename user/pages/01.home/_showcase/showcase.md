@@ -10,7 +10,7 @@ slides:
   - image: lounge.jpg
     heading: "<strong>Looking for something to do on site?</strong>"
     subheading: "The RecSoc supports a huge variety of clubs, classes, and activities..."
-    button_text: View Clubs & Activiteis
+    button_text: View Clubs & Activities
     button_url: /clubs
   - image: fireworks.jpg
     heading: "<strong>We do events</strong>"

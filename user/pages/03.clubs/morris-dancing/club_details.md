@@ -1,7 +1,8 @@
 ---
 title: Morris Dancing Club 
-contactname: Unknown
-contactemail: Unknown
+contactname: Charlotte Pascoe
+contactemail: leptonsquire@howedesigns.co.uk
+location: RecSoc sports hall
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
 bg_color: "#B4B093"

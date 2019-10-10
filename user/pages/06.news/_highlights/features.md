@@ -3,19 +3,25 @@ title: News
 menu: Highlights
 class: big
 features:
+	- header: Active and Wellbeing week
+	  text: "Get involved at Active and Wellbeing starting 1st July"
+	  icon: bicycle
+	  linkurl: "files/Recsoc-AWW/AWW Schedule pdf.pdf"
+	  linktext: "See the activities schedule here"
 	- header: News Letter
 	  text: "Want to know what's happening this month at the RecSoc?"
 	  icon: envelope-o
-	  linkurl: "files/News Letters/May 2019.pdf" 
+	  linkurl: "files/News Letters/September 2019.pdf"
 	  linktext: "Read it here"
 	- header: 2019 AGM
 	  text: "The agreed minutes from the 2019 RecSoc AGM"
 	  icon: group
 	  linktext: "Coming soon..."
 	- header: Rules
-	  text: "The most recent version of the rules the RecSoc Rules."
+	  text: "The most up to date version of the RecSoc Rules"
 	  icon: ellipsis-h
-	  linktext: "Coming soon..."
+	  linkurl: "files/RAL_RecSoc_Rules_2019.pdf"
+	  linktext: "Read it here"
 ---
 
 ## The latest from the RecSoc

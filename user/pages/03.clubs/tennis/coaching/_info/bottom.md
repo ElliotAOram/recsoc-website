@@ -33,10 +33,10 @@ The group sessions are for the following skill levels at the following times:
 
 | Day           | Time          | Ability      |
 | ------------- | ------------- | ------------ |
-| Wednesday     | 12:30         | Mixed        |
-| Wednesday     | 17:30         | Beginner     |
-| Thursday      | 12:30         | Mixed        |
-| Thursday      | 17:30         | Intermediate |
+| Wednesday     | 12:00 - 13:00 | Mixed        |
+| Wednesday     | 17:30 - 18:30 | Beginner     |
+| Thursday      | 12:00 - 13:00 | Mixed        |
+| Thursday      | 17:30 - 18:30 | Intermediate |
 
 
 If you are unsure which session you belong in, please come to the Mixed ability session and ask!

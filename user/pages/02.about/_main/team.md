@@ -4,12 +4,14 @@ members:
     - name: John Collier
       image: collier.jpg
       title: President
+    - name: Tom Griffin
+      title: Vice President
     - name: Paul Sedwards
       image: sedwards.jpg
-      title: Chairman
+      title: Chair
     - name: Tristan Youngs
       image: youngs.jpg
-      title: Vice Chairman
+      title: Vice Chair
     - name: Ronnie Brumfitt
       image: brumfitt.jpg
       title: Hon. Secretary

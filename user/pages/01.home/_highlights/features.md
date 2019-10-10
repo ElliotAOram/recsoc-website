@@ -16,6 +16,8 @@ features:
 	- header: The R58 Lounge
 	  text: "The Lounge, located on-site, offers cosy seating and a fully stocked bar"
 	  icon: star-o
+	  linkurl: /files/forms/R58_Lounge_Booking.pdf
+	  linktext: Book Now
 ---
 
 ## Rutherford Appleton Laboratory Recreational Society
