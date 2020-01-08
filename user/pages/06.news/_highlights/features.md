@@ -11,17 +11,18 @@ features:
 	- header: News Letter
 	  text: "Want to know what's happening this month at the RecSoc?"
 	  icon: envelope-o
-	  linkurl: "files/News Letters/September 2019.pdf"
-	  linktext: "Read it here"
-	- header: 2019 AGM
-	  text: "The agreed minutes from the 2019 RecSoc AGM"
+	  linkurl: "files/News Letters/December 2019.pdf"
+	  linktext: "December News letter"
+	- header: 2018/19 Annual Report
+	  text: "The Annual report for 2019 has arrived!"
 	  icon: group
-	  linktext: "Coming soon..."
+	  linkurl: "files/Annual Report/RAL RecSoc Annual Report 2018-19.pdf"
+	  linktext: "Annual Report"
 	- header: Rules
 	  text: "The most up to date version of the RecSoc Rules"
 	  icon: ellipsis-h
 	  linkurl: "files/RAL_RecSoc_Rules_2019.pdf"
-	  linktext: "Read it here"
+	  linktext: "2019 Rules"
 ---
 
 ## The latest from the RecSoc
