@@ -11,7 +11,7 @@ features:
 	- header: 2018/19 Annual Report
 	  text: "The Annual report for 2019 has arrived!"
 	  icon: group
-	  linkurl: "files/Annual Report/RAL RecSoc Annual Report 2018-19.pdf"
+	  linkurl: "files/Annual Reports/RAL RecSoc Annual Report 2018-19.pdf"
 	  linktext: "Annual Report"
 	- header: Rules
 	  text: "The most up to date version of the RecSoc Rules"
