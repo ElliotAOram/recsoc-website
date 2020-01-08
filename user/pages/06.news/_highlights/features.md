@@ -3,11 +3,6 @@ title: News
 menu: Highlights
 class: big
 features:
-	- header: Active and Wellbeing week
-	  text: "Get involved at Active and Wellbeing starting 1st July"
-	  icon: bicycle
-	  linkurl: "files/Recsoc-AWW/AWW Schedule pdf.pdf"
-	  linktext: "See the activities schedule here"
 	- header: News Letter
 	  text: "Want to know what's happening this month at the RecSoc?"
 	  icon: envelope-o
