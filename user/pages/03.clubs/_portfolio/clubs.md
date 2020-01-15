@@ -5,7 +5,7 @@ portfolio:
       image: angling.jpg
       url: clubs/angling
     - title: Arts & Crafts
-      image: artsandcrafts.jpg
+      image: artsandcraft.jpg
       url: clubs/arts-crafts
     - title: Aunt Sally
       image: auntsally.jpg
