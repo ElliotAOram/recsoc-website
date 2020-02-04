@@ -3,11 +3,11 @@ title: News
 menu: Highlights
 class: big
 features:
-	- header: News Letter
+	- header: Newsletter
 	  text: "Want to know what's happening this month at the RecSoc?"
 	  icon: envelope-o
-	  linkurl: "files/News Letters/December 2019.pdf"
-	  linktext: "December News letter"
+	  linkurl: "files/News Letters/February 2020.pdf"
+	  linktext: "February Newsletter"
 	- header: 2018/19 Annual Report
 	  text: "The Annual report for 2019 has arrived!"
 	  icon: group
