@@ -6,8 +6,8 @@ features:
 	- header: Newsletter
 	  text: "Want to know what's happening this month at the RecSoc?"
 	  icon: envelope-o
-	  linkurl: "files/News Letters/February 2020.pdf"
-	  linktext: "February Newsletter"
+	  linkurl: "files/News Letters/March 2020.pdf"
+	  linktext: "March Newsletter"
 	- header: 2018/19 Annual Report
 	  text: "The Annual report for 2019 has arrived!"
 	  icon: group
