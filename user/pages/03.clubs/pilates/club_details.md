@@ -1,7 +1,7 @@
 ---
 title: Pilates Club 
-contactname: Unknown
-contactemail: Unknown
+contactname: Rachel Marffy
+contactemail: rachel.marffy@gmail.com
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
 bg_color: "#B4B093"

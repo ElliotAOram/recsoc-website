@@ -10,8 +10,8 @@ The club does own some of the gear in the room, and which is listed below. This 
 
 ## Owned by the Club
 - 1 kW PA / speakers / mixer
-- Electric piano
-- Upright piano
+- Korg B1 electric piano
+- Yamaha CLP-635 digital clavinova 
 - Pearl drum kit
 - Marshall 15 W electric guitar amplifiers
 - Line6 guitar amp head / cab
