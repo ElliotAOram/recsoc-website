@@ -5,7 +5,7 @@ portfolio:
       image: angling.jpg
       url: clubs/angling
     - title: Arts & Crafts
-      image: artscrafts.jpg
+      image: artsandcraft.jpg
       url: clubs/arts-crafts
     - title: Aunt Sally
       image: auntsally.jpg
@@ -26,16 +26,16 @@ portfolio:
       image: golf.jpg
       url: clubs/golf
     - title: Model Railway
-      image: model-railway.jpg
+      image: modelrailway.jpg
       url: clubs/model-railway
     - title: Morris Dancing
-      image: morris-dancing.jpg
+      image: morrisdancing.jpg
       url: clubs/morris-dancing
     - title: Music Club
       image: music.jpg
       url: clubs/music
     - title: Photography
-      image: photgoraphy.jpg
+      image: photography.jpg
       url: clubs/photography
     - title: Pilates
       image: pilates.jpg

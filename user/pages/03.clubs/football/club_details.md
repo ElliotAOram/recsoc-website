@@ -1,7 +1,7 @@
 ---
 title: Football club 
-contactname: Unknown
-contactemail: Unknown
+contactname: Ronnie Brumfitt & June Callison
+contactemail: ronnie.brumfitt@stfc.ac.uk & june.callison@rc-harwell.ac.uk
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
 bg_color: "#B4B093"
