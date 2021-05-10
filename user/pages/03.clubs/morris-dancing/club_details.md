@@ -1,7 +1,7 @@
 ---
 title: Morris Dancing Club 
 contactname: Charlotte Pascoe
-contactemail: leptonsquire@howedesigns.co.uk
+contactemail: charlotte.pascoe@stfc.ac.uk
 location: RecSoc sports hall
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
