@@ -1,7 +1,7 @@
 ---
 title: Fencing Club 
-contactname: Unknown
-contactemail: Unknown
+contactname: Adrian Coveney
+contactemail: adrian.coveney@stfc.ac.uk
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
 bg_color: "#B4B093"

@@ -1,7 +1,7 @@
 ---
 title: Weight Training Club 
-contactname: Unknown
-contactemail: Unknown
+contactname: Adrian Shepard
+contactemail: adrian.shepard@stfc.ac.uk
 onpage_menu: false
 body_classes: "modular header-lite fullwidth services"
 bg_color: "#B4B093"
